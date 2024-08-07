@@ -1,0 +1,19 @@
+.header-class{
+    max-width: 100%;
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.footer-class{
+    max-width: 100%;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+main{
+    height: 500px;
+}
+h1{
+    color: white;
+}
