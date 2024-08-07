@@ -1,19 +1,40 @@
 .header-class{
     max-width: 100%;
-    background-color: black;
+    background-color: rgb(92, 92, 92);
     padding-top: 20px;
     padding-bottom: 20px;
     text-align: center;
 }
 .footer-class{
     max-width: 100%;
-    background-color: black;
+    background-color: rgb(92, 92, 92);
     color: white;
     padding: 20px;
 }
 main{
-    height: 500px;
+    height: 700px;
 }
 h1{
     color: white;
+}
+.Sub-title{
+    text-align: center;
+    font-family: cursive;
+    font-style: italic;
+}
+.lista-moradores{
+    background-color: rgb(92, 92, 92);
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 25px;
+}
+.titulo{
+    color: white;
+}
+.Image-house{
+    margin-top: 25px;
+    text-align: center;
+}
+.option{
+    height: 100px;
 }
